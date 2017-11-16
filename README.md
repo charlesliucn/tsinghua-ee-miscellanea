@@ -14,7 +14,7 @@ The repository contains miscellanious projects during 2014-2018, including:
 
 + An implementation of Quine-McCluskey Algorithm [[link]](https://github.com/charlesliucn/miscellanea/tree/master/06-qm-algorithm).
 
-+ A [link]ectory contains the tutorials of Digital Image Processing [[link]](https://github.com/charlesliucn/miscellanea/tree/master/07-DIP).
++ A directory contains the tutorials of Digital Image Processing [[link]](https://github.com/charlesliucn/miscellanea/tree/master/07-DIP).
 
 + A project of Digital Signal Processing [[link]](https://github.com/charlesliucn/miscellanea/tree/master/08-DSP).
 
