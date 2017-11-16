@@ -2,24 +2,24 @@
 
 The repository contains miscellanious projects during 2014-2018, including:
 
-+ 01. A simple HTML website
++ A simple HTML website [dir](https://github.com/charlesliucn/miscellanea/tree/master/01-simple-html)
 
-+ 02. A Recommendation System
++ A Recommendation System [dir](https://github.com/charlesliucn/miscellanea/tree/master/02-recommendation)
 
-+ 03. A solution to Eight Queen Problem
++ A solution to Eight Queen Problem [dir](https://github.com/charlesliucn/miscellanea/tree/master/03-database)
 
-+ 04. Some database experiments
++ Some database experiments [dir](https://github.com/charlesliucn/miscellanea/tree/master/04-eight-queens)
 
-+ 05. A project of Learning Data Science
++ A project of Learning Data Science [dir](https://github.com/charlesliucn/miscellanea/tree/master/05-datascience)
 
-+ 06. An implementation of Quine-McCluskey Algorithm
++ An implementation of Quine-McCluskey Algorithm [dir](https://github.com/charlesliucn/miscellanea/tree/master/06-qm-algorithm)
 
-+ 07. A directory contains the tutorials of Digital Image Processing
++ A directory contains the tutorials of Digital Image Processing [dir](https://github.com/charlesliucn/miscellanea/tree/master/07-DIP)
 
-+ 08. A project of Digital Signal Processing
++ A project of Digital Signal Processing [dir](https://github.com/charlesliucn/miscellanea/tree/master/08-DSP)
 
-+ 09. Two course these about Internet Techniques
++ Two course these about Internet Techniques [dir](https://github.com/charlesliucn/miscellanea/tree/master/09-internet-tech)
 
-+ 10. Three projects about Operation System (Windows)
++ Three projects about Operation System (Windows) [dir](https://github.com/charlesliucn/miscellanea/tree/master/10-os-projects)
 
-+ 11. Two Matlab Projects: Speech Syntheis and Image Processing
++ Two Matlab Projects: Speech Syntheis and Image Processing [dir](https://github.com/charlesliucn/miscellanea/tree/master/11-matlab-projects)
