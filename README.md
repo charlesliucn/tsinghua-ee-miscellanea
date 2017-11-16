@@ -22,4 +22,4 @@ The repository contains miscellanious projects during 2014-2018, including:
 
 + **C++**: Three projects about Operation System (Windows) [[link]](https://github.com/charlesliucn/miscellanea/tree/master/10-os-projects).
 
-+ **MATLAB**: Two Matlab Projects: Speech Syntheis and Image Processing [[link]](https://github.com/charlesliucn/miscellanea/tree/master/11-matlab-projects).
++ **MATLAB**: Two Matlab Projects: Speech Synthesis and Image Processing [[link]](https://github.com/charlesliucn/miscellanea/tree/master/11-matlab-projects).
