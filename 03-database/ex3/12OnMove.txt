@@ -1,0 +1,48 @@
+BOOL CODBC1View::OnMove(UINT nIDMoveCommand) 
+{
+	// TODO: Add your specialized code here and/or call the base class
+	if (m_bAdding) {
+		m_bAdding = FALSE;
+		UpdateData(TRUE);
+		// 调用 Update
+		if (m_pSet->CanUpdate())
+			 m_pSet->Update();
+		//将增加的记录移动到最后
+		if (!m_pSet->IsEOF())
+			m_pSet->MoveLast();
+		m_pSet->Requery();
+		UpdateData(FALSE);
+		// 将第一个字段恢复为只读
+		CEdit *pCtrl = (CEdit *)GetDlgItem(IDC_DEPTNO);
+		pCtrl->SetReadOnly(TRUE);
+		return TRUE;
+	}
+	else {
+		switch (nIDMoveCommand)
+		{
+		case ID_RECORD_PREV:
+			m_pSet->MovePrev();
+			if (!m_pSet->IsEOF())
+				break;
+		case ID_RECORD_FIRST:
+			m_pSet->MoveFirst();
+			break;
+		case ID_RECORD_NEXT:
+			m_pSet->MoveNext();
+			if (!m_pSet->IsEOF())
+				break;
+			if (!m_pSet->CanScroll()){
+				m_pSet->SetFieldNull(NULL);
+				break;
+			}
+		case ID_RECORD_LAST:
+			m_pSet->MoveLast();
+			break;
+		default:
+			ASSERT(FALSE);
+		}
+		UpdateData(FALSE); // 显示移动操作的结果
+		return TRUE;
+	}
+	return CRecordView::OnMove(nIDMoveCommand);
+}

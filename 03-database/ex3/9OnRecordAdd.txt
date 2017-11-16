@@ -1,0 +1,10 @@
+void CODBC1View::OnRecordAdd() 
+{
+	// TODO: Add your command handler code here
+	m_pSet->AddNew();
+	m_bAdding =TRUE;
+	// 将第一个字段改为可读写
+	CEdit *pCtrl = (CEdit *)GetDlgItem(IDC_DEPTNO);
+	int result = pCtrl->SetReadOnly(FALSE);
+	UpdateData(FALSE);
+}

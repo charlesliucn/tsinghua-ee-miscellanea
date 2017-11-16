@@ -1,0 +1,8 @@
+void CODBC1View::OnRecordUpdate() 
+{
+	// TODO: Add your command handler code here
+	m_pSet->Edit();
+	UpdateData(TRUE);
+	if (m_pSet->CanUpdate() )
+		m_pSet->Update();
+}

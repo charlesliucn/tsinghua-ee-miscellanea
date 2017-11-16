@@ -1,0 +1,6 @@
+void CODBC1View::OnRecordClearfields() 
+{
+	// TODO: Add your command handler code here
+	m_pSet->SetFieldNull(NULL);
+	UpdateData(FALSE);
+}

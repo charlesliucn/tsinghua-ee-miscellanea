@@ -1,0 +1,19 @@
+void CODBC1View::OnRecordDelete() 
+{
+	// TODO: Add your command handler code here
+	try {
+		m_pSet->Delete();
+	}
+	catch (CDBException *e) {
+		AfxMessageBox(e->m_strError);
+		e->Delete();
+		m_pSet->MoveFirst();
+		UpdateData(FALSE);
+		return;
+	}
+	if (m_pSet->IsEOF())
+		m_pSet->MoveLast();
+	if (m_pSet->IsBOF())
+		m_pSet->SetFieldNull(NULL);
+	UpdateData(FALSE);
+}
