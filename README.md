@@ -23,3 +23,9 @@ The repository contains miscellanious projects during 2014-2018, including:
 + **C++**: Three projects about Operation System (Windows) [[link]](https://github.com/charlesliucn/miscellanea/tree/master/10-os-projects).
 
 + **MATLAB**: Two Matlab Projects: Speech Synthesis and Image Processing [[link]](https://github.com/charlesliucn/miscellanea/tree/master/11-matlab-projects).
+
++ **C++**: Several Problems about Data Structure and Algorithms [[link]](https://github.com/charlesliucn/miscellanea/tree/master/12-algorithm-cpp).
+
++ **MATLAB**: Impurity Detection for Tabacoo Images [[link]](https://github.com/charlesliucn/miscellanea/tree/master/13-impurity-detection).
+
++ **C++**: A Library Management System and A Grade System Based On C++ [[link]](https://github.com/charlesliucn/miscellanea/tree/master/14-LibSys-GradeSys).
