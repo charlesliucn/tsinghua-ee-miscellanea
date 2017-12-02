@@ -3,7 +3,7 @@
 The repository contains miscellanious projects during 2014-2018, including:
 
 ### ASM
-+ **ASM**: A solution to Eight Queen Problem [[link]](https://github.com/charlesliucn/miscellanea/tree/master/03-database).
++ **ASM**: A solution to Eight Queen Problem [[link]](https://github.com/charlesliucn/miscellanea/tree/master/04-eight-queens). 
 
 ### C++
 + **C++**: An implementation of Quine-McCluskey Algorithm [[link]](https://github.com/charlesliucn/miscellanea/tree/master/06-qm-algorithm).
@@ -35,4 +35,4 @@ The repository contains miscellanious projects during 2014-2018, including:
 + **R**: A project of Learning Data Science [[link]](https://github.com/charlesliucn/miscellanea/tree/master/05-datascience).
 
 ### SQL
-+ **SQL**: Some database experiments [[link]](https://github.com/charlesliucn/miscellanea/tree/master/04-eight-queens).
++ **SQL**: Some database experiments [[link]](https://github.com/charlesliucn/miscellanea/tree/master/03-database).
