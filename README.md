@@ -1,9 +1,10 @@
 # Miscellanea
 
-The repository contains miscellanious projects during 2014-2018, including:
+## Projects
+The repository contains my miscellanious projects during 2014-2018 at Tsinghua University, including:
 
 ### ASM
-+ **ASM**: A solution to Eight Queen Problem [[link]](https://github.com/charlesliucn/miscellanea/tree/master/04-eight-queens). 
++ **ASM**: A solution to Eight Queen Problem [[link]](https://github.com/charlesliucn/miscellanea/tree/master/04-eight-queens).
 
 ### C++
 + **C++**: An implementation of Quine-McCluskey Algorithm [[link]](https://github.com/charlesliucn/miscellanea/tree/master/06-qm-algorithm).
@@ -36,3 +37,10 @@ The repository contains miscellanious projects during 2014-2018, including:
 
 ### SQL
 + **SQL**: Some database experiments [[link]](https://github.com/charlesliucn/miscellanea/tree/master/03-database).
+
+* * *
+## Course Theses
+Meanwhile, the repository also stores most of my course theses during college.
+### Investigations
+[An Investigation on Traffic in Urumqi]()
+[]
