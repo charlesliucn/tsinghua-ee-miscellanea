@@ -78,7 +78,7 @@ Meanwhile, the repository also stores most of my course theses during college.
 + [Automatic Speech Recognition Based on Kaldi Toolkit](http://nbviewer.jupyter.org/github/charlesliucn/miscellanea/blob/master/00-course-theses/18-ASR_based-on-kaldi.pdf)
 
 ### 8. Data Analysis
-+ [Bike Sharing Between Registered and Casual Group in Washing D.C.](http://nbviewer.jupyter.org/github/charlesliucn/miscellanea/blob/master/00-course-theses/11-The_Design_Principles_of_the_Internet.pdf)
++ [Bike Sharing Between Registered and Casual Group in Washing D.C.](http://nbviewer.jupyter.org/github/charlesliucn/miscellanea/blob/master/00-course-theses/10-Bike Sharing Between Registered and Casual Group in Washing D.C.pdf)
 + [Data Exploration with Shiny App](http://nbviewer.jupyter.org/github/charlesliucn/miscellanea/blob/master/00-course-theses/12-Data_Exploration-and-Shiny-App.pdf)
 
 ### 9. Network Techniques
