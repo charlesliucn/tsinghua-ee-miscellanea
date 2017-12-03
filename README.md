@@ -41,6 +41,39 @@ The repository contains my miscellanious projects during 2014-2018 at Tsinghua U
 * * *
 ## Course Theses
 Meanwhile, the repository also stores most of my course theses during college.
-### Investigations
-[An Investigation on Traffic in Urumqi]()
-[]
+
+#### Investigation and Survey
+04
+06
+09
+#### Operation System
+22
+23
+24
+#### Basic Programming
+01
+#### Signal Processing
+13
+15
+16
+#### Mathematics
+05
+14
+20
+21
+#### Education & Philosophy
+03
+07
+08
+#### Science and Technology
++ [The Propellant of The New Revolution -- Wearable Computing](http://nbviewer.jupyter.org/github/charlesliucn/miscellanea/blob/master/00-course-theses/02-Wearable-Computing.pdf)
+17
+18
+#### Data Analysis
+10
+12
+#### Network Techniques
+11
+25
+#### Internship
+19
