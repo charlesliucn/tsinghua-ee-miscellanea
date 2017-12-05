@@ -28,15 +28,18 @@ The repository contains my miscellanious projects during 2014-2018 at Tsinghua U
 
 + **MATLAB**: A directory contains the tutorials of Digital Image Processing [[link]](https://github.com/charlesliucn/miscellanea/tree/master/07-DIP).
 
-+ **MATLAB**: A directory contains the tutorials of Digital Image Processing [[link]](https://github.com/charlesliucn/miscellanea/tree/master/07-DIP).
-
 + **MATLAB**: Impurity Detection for Tabacoo Images [[link]](https://github.com/charlesliucn/miscellanea/tree/master/13-impurity-detection).
+
++ **MATLAB**: Two major projects of `Stochastic Process` course [[link]](https://github.com/charlesliucn/miscellanea/tree/master/16-stochastic-process).
 
 ### R
 + **R**: A project of Learning Data Science [[link]](https://github.com/charlesliucn/miscellanea/tree/master/05-datascience).
 
 ### SQL
 + **SQL**: Some database experiments [[link]](https://github.com/charlesliucn/miscellanea/tree/master/03-database).
+
+### Verilog
++ **Verilog**: A 32-bit MIPS CPU based on Basys 3.0 FPGA, as well as some basic problems solved by Verilog [[link]](https://github.com/charlesliucn/miscellanea/tree/master/15-mips-cpu)
 
 * * *
 
