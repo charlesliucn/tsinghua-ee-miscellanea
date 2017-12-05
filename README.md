@@ -19,7 +19,7 @@ The repository contains my miscellanious projects during 2014-2018 at Tsinghua U
 + **HTML**: A simple HTML website [[link]](https://github.com/charlesliucn/miscellanea/tree/master/01-simple-html).
 
 ### Latex
-+ **LaTex**: Two course these about Internet Techniques [[link]](https://github.com/charlesliucn/miscellanea/tree/master/09-internet-tech).
++ **LaTex**: Two course theses about Internet Techniques [[link]](https://github.com/charlesliucn/miscellanea/tree/master/09-internet-tech).
 
 ### MATLAB
 + **MATLAB**: A Recommendation System [[link]](https://github.com/charlesliucn/miscellanea/tree/master/02-recommendation).
@@ -42,8 +42,7 @@ The repository contains my miscellanious projects during 2014-2018 at Tsinghua U
 
 
 ### Verilog
-+ **Verilog**: A 32-bit MIPS CPU based on Basys 3.0 FPGA, as well as some basic problems solved by Verilog [[link]](https://github.com/charlesliucn/miscellanea/tree/master/15-mips-cpu)
-
++ **Verilog**: A 32-bit MIPS CPU based on Basys 3.0 FPGA, as well as some basic problems solved by Verilog [[link]](https://github.com/charlesliucn/miscellanea/tree/master/15-mips-cpu).
 
 * * *
 
