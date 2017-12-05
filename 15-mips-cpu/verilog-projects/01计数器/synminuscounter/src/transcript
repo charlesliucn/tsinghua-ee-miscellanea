@@ -1,0 +1,15 @@
+# Reading E:/Program Files (x86)/Modelsim/tcl/vsim/pref.tcl 
+# error: Layout::Clairvoyance can't read "map(?)": no such element in array
+# can't read "map(?)": no such element in array
+#     while executing
+# "Layout::Clairvoyance"
+# //  ModelSim SE-64 10.1c Jul 28 2012 
+# //
+# //  Copyright 1991-2012 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# OpenFile C:/Users/M/Desktop/synminuscounter/src/synminuscounter.v 

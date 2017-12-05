@@ -1,0 +1,7 @@
+Fri Apr 15 15:31:49 ?????? 2016
+Trace back: can't read "map(?)": no such element in array
+    while executing
+"quit"
+    (command for "WM_DELETE_WINDOW" window manager protocol)
+  <2: ::tkerror {can't read "map(?)": no such element in array}
+  <1: ::bgerror {can't read "map(?)": no such element in array}

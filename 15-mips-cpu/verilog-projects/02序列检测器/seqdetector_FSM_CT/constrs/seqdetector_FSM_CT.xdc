@@ -1,0 +1,21 @@
+set_property PACKAGE_PIN T18 [get_ports {reset}]
+set_property PACKAGE_PIN U17 [get_ports {clk_in}]
+#CA->CG
+set_property PACKAGE_PIN V14 [get_ports {Q[3]}]
+set_property PACKAGE_PIN U14 [get_ports {Q[2]}]
+set_property PACKAGE_PIN U15 [get_ports {Q[1]}]
+set_property PACKAGE_PIN U16 [get_ports {z}]
+set_property PACKAGE_PIN V16 [get_ports {x}]
+set_property PACKAGE_PIN W5 [get_ports system_clk]
+
+create_clock -period 10.000 -name CLK -waveform {0.000 5.000} [get_ports system_clk]
+#set_property CLOCK_DEDICATED_ROUTE FALSE [get_nets clk]
+
+set_property IOSTANDARD LVCMOS33 [get_ports {system_clk}]
+set_property IOSTANDARD LVCMOS33 [get_ports {Q[3]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {Q[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {Q[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {z}]
+set_property IOSTANDARD LVCMOS33 [get_ports {reset}]
+set_property IOSTANDARD LVCMOS33 [get_ports {clk_in}]
+set_property IOSTANDARD LVCMOS33 [get_ports {x}]

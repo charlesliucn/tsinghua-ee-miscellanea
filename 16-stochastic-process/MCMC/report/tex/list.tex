@@ -1,0 +1,146 @@
+\documentclass[11pt]{article}
+\usepackage{ctex}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{随机过程第一次Project代码清单}\footnote{代码均在code文件夹}
+%\subtitle{概率论与随机过程(2)  第一次大作业}
+\author{无47\hspace{2em}刘前\thanks{清华大学电子工程系(E-mail: liuqian14@mails.tsinghua.edu.cn)}\hspace{2em}2014011216\hspace{2em}}
+\maketitle
+
+\section{Part A: Metropolis-Hastings算法应用}
+\begin{table}[!htbp]
+  \centering  
+  \begin{tabular}{c|c} 
+  \hline\hline
+  文件名 & 文件功能\\ \hline
+  bigauss.m& 给定高斯分布的概率密度函数 \\ \hline
+  MH\_Origin.m & MH算法的初步实现 \\
+  MH\_Origin\_Test.m & MH算法的初步实现(测试性能) \\ \hline
+  MH\_Sigma.m & 对MH算法中提议函数方差的探究 \\
+  MH\_Sigma\_Test.m &  比较提议函数方差不同时MH算法的性能\\ \hline
+  MH\_SampleNum.m & 对MH算法中随机样本数目的探究 \\
+  MH\_SampleNum\_Test.m &  比较随机样本数不同时MH算法的性能\\ \hline
+  MH\_Step.m & 对MH算法中随机样本间隔选取的探究 \\
+  MH\_Step\_Test.m &  比较选取随机样本间隔不同时MH算法的性能\\ \hline
+  MH\_Gibbs.m &  实现Gibbs算法 \\ 
+  MH\_Gibbs\_Test.m &  测试Gibbs算法的性能 \\\hline
+  MH\_Optimal.m & 各参数优化后的MH算法 \\
+  MH\_Compare.m & 对优化前后的算法进行对比\\ \hline\hline
+\end{tabular}
+\caption{Part A代码清单}
+\label{CodeList1}
+\end{table}
+
+
+\section{Part B: RBM模型归一化常数的估计}
+
+\begin{table}[!htbp]
+  \centering  
+  \begin{tabular}{c|c} 
+  \hline\hline
+  文件名 & 文件功能\\ \hline
+  AIS2.m  & AIS算法实现 \\
+  TAP2.m & TAP算法(二阶近似)实现\\
+  TAP3.m & TAP算法(三阶近似)实现\\
+  RTS.m & RTS算法实现 \\
+  LikeliHood.m & 计算测试数据上的总似然值 \\
+  Compare.m & 比较各算法的性能 \\
+  run.m & 产生要求的z.mat \\
+  \hline\hline
+\end{tabular}
+\caption{Part B代码清单--run}
+\label{CodeList2-run}
+\end{table}
+
+
+\begin{table}[!htbp]
+  \centering  
+  \begin{tabular}{c|c} 
+  \hline\hline
+  数据文件名 & 数据\\ \hline
+  h10.mat & 隐变量为10的RBM模型 \\ 
+  h20.mat & 隐变量为20的RBM模型 \\
+  h100.mat & 隐变量为100的RBM模型 \\
+  h500.mat & 隐变量为500的RBM模型 \\ \hline
+  test.mat & 测试数据 \\
+  train.mat & 训练数据 \\
+  \hline\hline
+\end{tabular}
+\caption{Part B代码清单--Data}
+\label{CodeList2-Data}
+\end{table}
+
+
+\begin{table}[!htbp]
+  \centering  
+  \begin{tabular}{c|c} 
+  \hline\hline
+  文件名 & 文件功能\\ \hline
+  AIS1.m  & AIS算法实现(无分批数据) \\
+  AIS2.m  & AIS算法实现(有分批数据) \\ 
+  AIS\_Test.m & AIS算法性能测试 \\ \hline
+  LikeliHood.m & 计算测试数据上的总似然值 \\ \hline
+  AIS\_Beta.m & 探究$\beta$参数对AIS算法的影响\\
+  AIS\_Mrun.m & 探究执行次数$M$对AIS算法的影响\\
+  AIS\_Data.m & 探究是否使用分批数据对AIS算法的影响\\ 
+  \hline\hline
+\end{tabular}
+\caption{Part B代码清单--AIS}
+\label{CodeList2-AIS}
+\end{table}
+
+\begin{table}[!htbp]
+  \centering  
+  \begin{tabular}{c|c} 
+  \hline\hline
+  文件名 & 文件功能\\ \hline
+  TAP2.m & TAP算法(二阶近似)实现\\
+  TAP3.m & TAP算法(三阶近似)实现\\
+  TAP\_Test.m & TAP算法测试 \\
+  LikeliHood.m & 计算测试数据上的总似然值 \\
+  \hline\hline
+\end{tabular}
+\caption{Part B代码清单--TAP}
+\label{CodeList2-TAP}
+\end{table}
+
+\begin{table}[!htbp]
+  \centering  
+  \begin{tabular}{c|c} 
+  \hline\hline
+  文件名 & 文件功能\\ \hline
+  RTS.m & RTS算法实现\\
+  RTS\_Test.m & RTS算法测试 \\
+  \hline\hline
+\end{tabular}
+\caption{Part B代码清单--RTS}
+\label{CodeList2-RTS}
+\end{table}
+
+
+\begin{table}[!htbp]
+  \centering  
+  \begin{tabular}{c|c} 
+  \hline\hline
+  文件名 & 文件功能\\ \hline
+  sigm.m & Sigmoid函数 \\
+  sigmrnd.m & 生成服从Sigmoid函数的随机数 \\
+  rbmtrain.m & RBM模型的训练函数\\
+  dbnsetup.m & DBN\footnote{DBN, Deep Belief Networks,深度信念网络}的建立\\
+  dbntrain.m & DBN的训练\\
+  RBM\_Training.m & 执行RBM模型训练，得到h*.mat\\ \hline
+  AIS2.m & AIS算法估计归一化常数 \\ 
+  LikeliHood.m & 计算测试数据上的总似然值 \\
+  trained\_run.m & 估计归一化常数并计算似然值 \\
+  \hline\hline
+\end{tabular}
+\caption{Part B代码清单--train}
+\label{CodeList2-train}
+\end{table}
+
+
+\end{document}
