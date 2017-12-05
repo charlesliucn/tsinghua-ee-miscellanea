@@ -34,6 +34,9 @@ The repository contains my miscellanious projects during 2014-2018 at Tsinghua U
 
 + **MATLAB**: Two major projects of `Stochastic Process` course [[link]](https://github.com/charlesliucn/miscellanea/tree/master/16-stochastic-process).
 
+### Python
++ **Python**: Trajectory Prediction based on Markov Chain and Spatial-Temporal Recurrent Neural Networks [[link]](https://github.com/charlesliucn/miscellanea/tree/master/17-trajectory-prediction).
+
 ### R
 + **R**: A project of Learning Data Science [[link]](https://github.com/charlesliucn/miscellanea/tree/master/05-datascience).
 
