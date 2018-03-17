@@ -1,0 +1,9 @@
+Browser	Share
+IE8  	13.50
+IE7  	12.80
+IE6  	10.90
+Firefox	46.40
+Chrome	9.80
+Safari	3.60
+Opera	2.30
+

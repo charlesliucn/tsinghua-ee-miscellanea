@@ -1,0 +1,13 @@
+site_code,site_name,PM10,lat,long,color
+BX1,Bexley - Slade Green,18.4,51.4659928,0.184848786,green
+BN2,Barnet - Finchley,19.1,51.591901,-0.205992,green
+HS7,Hounslow - Hatton Cross,19.7,51.463402,-0.427525,green
+GN3,Greenwich - Plumstead High Street,20.2,51.486957,0.095111,yellow
+CR3,Croydon - Thornton Heath,20.9,51.40401,-0.098814,yellow
+LB3,Lambeth - Loughborough Junct,22.2,51.464866,-0.099161,yellow
+CT3,City of London - Sir John Cass School,26.3,51.51384718,-0.077765682,yellow
+WL4,Waltham Forest - Crooked Billet,29.6,51.6017185,-0.016498263,yellow
+TH4,Tower Hamlets - Blackwall,35.7,51.515077,-0.008387,orange
+MY1,Westminster - Marylebone Road,39.5,51.52254,-0.15459,orange
+BT5,Brent - Neasden Lane,40.9,51.552656,-0.248774,red
+EA8,Ealing - Horn Lane,41.3,51.518948,-0.265617,red
