@@ -4,48 +4,48 @@
 The repository contains my miscellanious projects during 2014-2018 at Tsinghua University, including:
 
 ### ASM
-+ **ASM**: A solution to Eight Queen Problem [[link]](https://github.com/charlesliucn/miscellanea/tree/master/04-eight-queens).
++ **ASM**: A solution to Eight Queen Problem [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/04-eight-queens).
 
 ### C++
-+ **C++**: An implementation of Quine-McCluskey Algorithm [[link]](https://github.com/charlesliucn/miscellanea/tree/master/06-qm-algorithm).
++ **C++**: An implementation of Quine-McCluskey Algorithm [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/06-qm-algorithm).
 
-+ **C++**: Three projects about Operation System (Windows) [[link]](https://github.com/charlesliucn/miscellanea/tree/master/10-os-projects).
++ **C++**: Three projects about Operation System (Windows) [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/10-os-projects).
 
-+ **C++**: Several Problems about Data Structure and Algorithms [[link]](https://github.com/charlesliucn/miscellanea/tree/master/12-algorithm-cpp).
++ **C++**: Several Problems about Data Structure and Algorithms [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/12-algorithm-cpp).
 
-+ **C++**: A Library Management System and A Grade System Based On C++ [[link]](https://github.com/charlesliucn/miscellanea/tree/master/14-LibSys-GradeSys).
++ **C++**: A Library Management System and A Grade System Based On C++ [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/14-LibSys-GradeSys).
 
 ### HTML
-+ **HTML**: A simple HTML website [[link]](https://github.com/charlesliucn/miscellanea/tree/master/01-simple-html).
++ **HTML**: A simple HTML website [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/01-simple-html).
 
 ### Latex
-+ **LaTex**: Two course theses about Internet Techniques [[link]](https://github.com/charlesliucn/miscellanea/tree/master/09-internet-tech).
++ **LaTex**: Two course theses about Internet Techniques [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/09-internet-tech).
 
 ### MATLAB
-+ **MATLAB**: A Recommendation System [[link]](https://github.com/charlesliucn/miscellanea/tree/master/02-recommendation).
++ **MATLAB**: A Recommendation System [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/02-recommendation).
 
-+ **MATLAB**: A directory contains the tutorials of Digital Image Processing [[link]](https://github.com/charlesliucn/miscellanea/tree/master/07-DIP).
++ **MATLAB**: A directory contains the tutorials of Digital Image Processing [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/07-DIP).
 
-+ **MATLAB**: A directory contains a project of Digital Signal Processing [[link]](https://github.com/charlesliucn/miscellanea/tree/master/08-DSP).
++ **MATLAB**: A directory contains a project of Digital Signal Processing [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/08-DSP).
 
-+ **MATLAB**: A directory contains several projects based on MATLAB [[link]](https://github.com/charlesliucn/miscellanea/tree/master/11-matlab-projects).
++ **MATLAB**: A directory contains several projects based on MATLAB [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/11-matlab-projects).
 
-+ **MATLAB**: Impurity Detection for Tabacoo Images [[link]](https://github.com/charlesliucn/miscellanea/tree/master/13-impurity-detection).
++ **MATLAB**: Impurity Detection for Tabacoo Images [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/13-impurity-detection).
 
-+ **MATLAB**: Two major projects of `Stochastic Process` course [[link]](https://github.com/charlesliucn/miscellanea/tree/master/16-stochastic-process).
++ **MATLAB**: Two major projects of `Stochastic Process` course [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/16-stochastic-process).
 
 ### Python
-+ **Python**: Trajectory Prediction based on Markov Chain and Spatial-Temporal Recurrent Neural Networks [[link]](https://github.com/charlesliucn/miscellanea/tree/master/17-trajectory-prediction).
++ **Python**: Trajectory Prediction based on Markov Chain and Spatial-Temporal Recurrent Neural Networks [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/17-trajectory-prediction).
 
 ### R
-+ **R**: A project of Learning Data Science [[link]](https://github.com/charlesliucn/miscellanea/tree/master/05-datascience).
++ **R**: A project of Learning Data Science [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/05-datascience).
 
 ### SQL
-+ **SQL**: Some database experiments [[link]](https://github.com/charlesliucn/miscellanea/tree/master/03-database).
++ **SQL**: Some database experiments [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/03-database).
 
 
 ### Verilog
-+ **Verilog**: A 32-bit MIPS CPU based on Basys 3.0 FPGA, as well as some basic problems solved by Verilog [[link]](https://github.com/charlesliucn/miscellanea/tree/master/15-mips-cpu).
++ **Verilog**: A 32-bit MIPS CPU based on Basys 3.0 FPGA, as well as some basic problems solved by Verilog [[link]](https://github.com/charlesliucn/tsinghua-ee-miscellanea/tree/master/15-mips-cpu).
 
 * * *
 
